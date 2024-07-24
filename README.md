@@ -1,4 +1,4 @@
-# GERENCIADOR DE PROCESSOS IN PYTHON
+# LINUX PROCESS MANAGER IN PYTHON
 
 Este repositorio possui um gerênciador de processos simples, de sistema Linux, em Python
 
@@ -27,7 +27,7 @@ Se não estiver instalado ou você precisar de uma versão específica, você po
 
 Entre no diretorio via terminal
 
-    $ cd Gerenciador de Processos/
+    $ cd Gerenciador\ de\ Processos/
 
 E depois execute o comando
 
